@@ -109,32 +109,64 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Maha Vidya J P
+RegisterNumber:  23013441
 */
 
+## Code
 
+## SR Flipflop
 
+![Screenshot 2023-11-28 210614](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/f55cb8b8-711b-4fb1-a628-73447f7efc1a)
 
+## D Flipflop
 
+![Screenshot 2023-11-28 210623](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/814d9eb9-2c25-4730-9447-6e6566f5f41e)
 
-### RTL LOGIC FOR FLIPFLOPS 
+## JK Flipflop
 
+![Screenshot 2023-11-28 210634](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/391059d8-9174-46e6-bea6-5d27073810a5)
 
+## T Flipflop
 
+![Screenshot 2023-11-28 210643](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/f125d6a2-e70f-47a3-8687-3b33373ab1c7)
 
+## RTL Logic for Flipflop
 
+## SR Flipflop
 
+![Screenshot 2023-11-28 210658](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/7f415a94-6ef1-4d3f-9952-94864811d0c3)
 
+## D Flipflop
 
+![Screenshot 2023-11-28 210707](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/2184d9db-5395-44d7-b4cb-a99c4d080af3)
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+## JK Flipflop
 
+![Screenshot 2023-11-28 210718](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/60a3d298-3527-40fd-8c66-0ef5da2f5695)
 
+## T Flipflop
 
+![Screenshot 2023-11-28 210728](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/1abef4c4-fd26-4fea-a71d-80d4b37968d5)
 
+## Timing Diagram
 
+## SR Flipflop
 
+![Screenshot 2023-11-28 210746](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/0478c4fb-0965-4b51-9aaa-2362ada70e18)
 
+## D Flipflop
+
+![Screenshot 2023-11-28 210804](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/250a8548-3f1d-4c47-8e67-31cd5fae8ffd)
+
+## JK Flipflop
+
+![Screenshot 2023-11-28 210823](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/608504d1-1e3b-4c93-9009-b753822910b1)
+
+## T Flipflop
+
+![Screenshot 2023-11-28 210842](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/52fffdc8-3660-4efa-9633-808a6735a785)
 
 ### RESULTS 
+
+Successfully implemented all the flipflops using verilog and validating their functionality using their functional tables.
