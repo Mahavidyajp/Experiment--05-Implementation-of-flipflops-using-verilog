@@ -149,7 +149,7 @@ RegisterNumber:  23013441
 
 ![Screenshot 2023-11-28 210728](https://github.com/Mahavidyajp/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870914/1abef4c4-fd26-4fea-a71d-80d4b37968d5)
 
-## Timing Diagram
+## Timing Diagram for Flipflop
 
 ## SR Flipflop
 
